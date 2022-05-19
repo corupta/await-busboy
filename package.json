@@ -1,6 +1,6 @@
 {
-  "name": "await-busboy",
-  "description": "An awaitable busboy multipart parser",
+  "name": "await-busboy-latest",
+  "description": "An awaitable busboy multipart parser with latest busboy",
   "version": "1.0.3",
   "author": {
     "name": "Aaron Heckmann",
